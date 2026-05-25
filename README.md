@@ -1,5 +1,9 @@
 # Spring Boot Azure App Configuration Demo
 
+## Blog Article
+
+> **📝 Read the companion blog post:** [A Spring Boot Developer's Guide to Azure App Configuration](https://akhan-2020.github.io/java/azure/2026/05/25/spring-boot-azure-app-configuration-guide/)
+
 This demo shows how to integrate Spring Boot with Azure App Configuration and Key Vault using Spring Cloud Azure.
 
 ## Architecture
@@ -119,4 +123,4 @@ az group delete --name rg-appconfig-demo --yes --no-wait
 
 ## Related Blog Post
 
-Read the full guide: [A Spring Boot Developer's Guide to Azure App Configuration](https://akhan-2020.github.io/java/azure/2026/05/25/spring-boot-azure-app-configuration-guide.html)
+Read the full guide: [A Spring Boot Developer's Guide to Azure App Configuration](https://akhan-2020.github.io/java/azure/2026/05/25/spring-boot-azure-app-configuration-guide/)
